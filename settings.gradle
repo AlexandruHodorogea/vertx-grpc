@@ -1,0 +1,6 @@
+rootProject.name = 'VertxRPCTryout'
+include 'server'
+include 'client'
+include 'protocol'
+include 'protocol'
+

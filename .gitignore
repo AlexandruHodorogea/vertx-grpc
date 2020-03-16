@@ -1,0 +1,17 @@
+.gradle
+build
+
+# intellij idea project files
+*.ipr
+*.iml
+*.iws
+*.ids
+*.classpath
+*.project
+*.settings
+*.vscode
+logs/
+*/bin
+out/
+.idea/
+
